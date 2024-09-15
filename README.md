@@ -14,7 +14,7 @@ CooKinAgent est un agent autonome qui recommande des recettes en fonction des co
    cd CooKinAgent
 3. Installez les dépendances :
    pip install -r requirements.txt
-4.Utilisation
+4. Utilisation
    Exécutez le script principal pour obtenir une recette recommandée :
    python main.py
 ## Contact
