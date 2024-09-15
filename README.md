@@ -17,5 +17,5 @@ CooKinAgent est un agent autonome qui recommande des recettes en fonction des co
 4.Utilisation
    Exécutez le script principal pour obtenir une recette recommandée :
    python main.py
-Contact
+## Contact
 Pour toute question ou commentaire, veuillez contacter achbnora@gmail.com
